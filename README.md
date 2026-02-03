@@ -1,7 +1,7 @@
 # Fending off the foes
 
-### [Solving the information psychosis problem]
-### [Perhaps ADHD is a response symptom, rather than a condition?]
+### [Solving the information psychosis problem]()
+### [Perhaps ADHD is a response symptom, rather than a condition?]()
 
 
 ### All those sports-related-things:
